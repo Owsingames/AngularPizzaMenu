@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    color: #EEEEEE;
+    border: solid 1px black;
+    padding: 1%;
+    margin: 1%;
+}
+
+.title{
+    text-align: center;
+    color: #548CA8;
+    font-size: 300%;
+}
+
+.table-border{
+    border: solid 2px #548CA8;
+    text-align: center;
+    padding: 1%;
+    margin: 1%;
+}
+
+.table-head{
+    font-size: 5em;
+    border: solid 2px #548CA8;
+    text-align: center;
+    padding: 1%;
+    margin: 1%;
+}
